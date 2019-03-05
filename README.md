@@ -17,7 +17,9 @@
 6. Use Wget on get-php-files.sh and run script.
 
 #HTTPS
+
 7. Add LetsEncrypt Certificate - https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04
 
 #HSTS
+
 8. Add STS header - https://itigloo.com/security/how-to-configure-http-strict-transport-security-hsts-on-apache-nginx/
